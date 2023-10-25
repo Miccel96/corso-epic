@@ -26,8 +26,15 @@ body {
 
 h1 {
     margin-bottom: 1px;
+    padding-left: 10%;
 
     }
+
+.start {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 
 .p1 {
     width: 5px;
@@ -40,6 +47,9 @@ h1 {
     margin: auto;
 }
 
+.titoloh1
+{ width: 500px;
+}
 .h4-link {
     color: red;
     margin: 0px;
