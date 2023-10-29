@@ -1,0 +1,165 @@
+body{
+    background-color: rgb(233, 237, 239);
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+  }
+
+  .main{
+    width: 1200px;
+    margin: auto;
+  }
+.uptop{ 
+    background-color: rgb(35, 48, 64);
+    height: 60px;
+}
+
+.logo{
+    width: 105px;
+    height: 40px;
+    margin-left: 45px;
+    margin-top: 10px;
+}
+
+.under_top {
+    background-color: rgb(54, 71, 87);
+    height: 30px;
+    padding-top: 7px;
+    width: 100%;
+    padding-left: 40px;
+}
+
+.menu{
+    padding-left: 10px;
+    color: white;
+    padding-top: 5px;
+}
+
+#orange {
+    background-color: rgb(245, 102, 0);
+    color: white;
+    height: 25px;
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    padding-top: 5px;
+}
+
+.natale{
+    position: relative;
+}
+
+.gift{
+    width: 100%;
+    height: 140px;
+    color: white;
+}
+
+.span{
+    margin-right: 25px;
+}
+
+.holiday{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 15pt;
+    font-weight: 700;
+}
+
+.holiday2{
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-weight: 600;
+}
+
+
+.saldi{
+    margin-top: 20px;
+    height: 380px;
+    background-color: rgb(255, 255, 255);
+}
+
+.box{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.span1{
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 15px;
+    font-size: 15pt;
+}
+
+.span2{
+    margin-left: 5px;
+    font-size: 12pt;
+    color: blue;
+}
+
+.pic{
+    width: 250px;   
+    height: 300px;
+    margin-top: 15px;
+    
+    
+}
+
+
+
+.banner{
+    width: 100%;
+    margin-top: 25px;
+    
+
+}
+
+.underbanner{
+    text-align: center;
+}
+
+.p_centre {
+    display: inline;
+    color: blue;
+    margin-left: 10px;
+}
+
+
+
+.downtop{
+    background-color: rgb(54, 71, 87);
+    text-align: center;
+    color: white;
+    height: 40px;
+    
+    
+
+}
+
+.backtotop{
+    
+    padding-top: 10px;
+}
+
+.bottom {
+    background-color: rgb(35, 48, 64);
+    height: 150px;
+    position: relative;
+    
+}
+
+.finalogo {
+    width: 150px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+}
